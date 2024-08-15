@@ -15,6 +15,7 @@
     "@tailwindcss/typography": "^0.5.14",
     "autoprefixer": "^10.4.20",
     "bcryptjs": "^2.4.3",
+    "cssnano": "^7.0.5",
     "dotenv": "^16.4.5",
     "jotai": "^2.9.0",
     "jsonwebtoken": "^9.0.2",
